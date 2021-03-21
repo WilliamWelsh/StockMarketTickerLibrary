@@ -1,0 +1,344 @@
+{
+  "ES": {
+    "logo": "https://storage.googleapis.com/iex/api/logos/SPY.png",
+    "R": 254,
+    "G": 255,
+    "B": 255
+  },
+  "NQ": {
+    "logo": "https://media.glassdoor.com/sqll/12152/nasdaq-squarelogo-1522690440241.png",
+    "R": 4,
+    "G": 143,
+    "B": 191
+  },
+  "MES": {
+    "logo": "https://storage.googleapis.com/iex/api/logos/SPY.png",
+    "R": 254,
+    "G": 255,
+    "B": 255
+  },
+  "MNQ": {
+    "logo": "https://media.glassdoor.com/sqll/12152/nasdaq-squarelogo-1522690440241.png",
+    "R": 4,
+    "G": 143,
+    "B": 191
+  },
+  "ROKU": {
+    "logo": "https://pbs.twimg.com/profile_images/1083817071325065216/UubXAxEu_400x400.jpg",
+    "R": 173,
+    "G": 147,
+    "B": 196
+  },
+  "AAPL": {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/1200px-Apple_logo_white.svg.png",
+    "R": 254,
+    "G": 255,
+    "B": 255
+  },
+  "BABA": {
+    "logo": "https://i.imgur.com/JvWCnWu.png",
+    "R": 242,
+    "G": 111,
+    "B": 33
+  },
+  "TSLA": {
+    "logo": "https://pbs.twimg.com/profile_images/626625681372282880/N5RGJj5B_400x400.png",
+    "R": 204,
+    "G": 0,
+    "B": 0
+  },
+  "GOOGL": {
+    "logo": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/f7/8e/4d/f78e4dfa-5878-a771-68d2-7a068747fc39/logo_gsa_ios_color-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/1024x1024bb.jpg",
+    "R": 254,
+    "G": 255,
+    "B": 255
+  },
+  "GOOG": {
+    "logo": "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/f7/8e/4d/f78e4dfa-5878-a771-68d2-7a068747fc39/logo_gsa_ios_color-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/1024x1024bb.jpg",
+    "R": 254,
+    "G": 255,
+    "B": 255
+  },
+  "WMT": {
+    "logo": "https://avatars2.githubusercontent.com/u/39627384?s=400&v=4",
+    "R": 26,
+    "G": 117,
+    "B": 207
+  },
+  "SPOT": {
+    "logo": "https://storage.googleapis.com/iex/api/logos/SPOT.png",
+    "R": 30,
+    "G": 215,
+    "B": 96
+  },
+  "MCD": {
+    "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/79/85/dd/7985dd81-2e07-56a0-8973-a3ad5479ad9c/AppIcon-4-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png",
+    "R": 255,
+    "G": 188,
+    "B": 13
+  },
+  "PTON": {
+    "logo": "https://www.streetinsider.com/images/news2/158/15858812/resize_pton.jpg",
+    "R": 254,
+    "G": 255,
+    "B": 255
+  },
+  "BYND": {
+    "logo": "https://fxdailyreport.com/wp-content/uploads/2019/06/beyond-meat.jpg",
+    "R": 117,
+    "G": 193,
+    "B": 84
+  },
+  "ADBE": {
+    "logo": "https://i.imgur.com/Mn2Sca5.png",
+    "R": 254,
+    "G": 0,
+    "B": 0
+  },
+  "DKNG": {
+    "logo": "https://i.imgur.com/dl9CiSI.png",
+    "R": 106,
+    "G": 178,
+    "B": 66
+  },
+  "SNAP": {
+    "logo": "https://cdn1.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-snapchat-2019-square1-512.png",
+    "R": 247,
+    "G": 236,
+    "B": 30
+  },
+  "PYPL": {
+    "logo": "https://favicomatic.com/img/paypal.png",
+    "R": 0,
+    "G": 156,
+    "B": 222
+  },
+  "NFLX": {
+    "logo": "https://storage.googleapis.com/iex/api/logos/NFLX.png",
+    "R": 141,
+    "G": 5,
+    "B": 13
+  },
+  "NVDA": {
+    "logo": "https://storage.googleapis.com/iex/api/logos/NVDA.png",
+    "R": 97,
+    "G": 151,
+    "B": 0
+  },
+  "BA": {
+    "logo": "https://storage.googleapis.com/iex/api/logos/BA.png",
+    "R": 111,
+    "G": 176,
+    "B": 211
+  },
+  "NIO": {
+    "logo": "https://i.pinimg.com/originals/ee/81/0e/ee810e9422320a522024007642f8f110.png",
+    "R": 23,
+    "G": 23,
+    "B": 20
+  },
+  "CCL": {
+    "logo": "https://www.streetinsider.com/images/secattach/20200403/16705935_g897344g45f53.jpg",
+    "R": 225,
+    "G": 44,
+    "B": 49
+  },
+  "QQQ": {
+    "logo": "https://d14aey5zg44n7g.cloudfront.net/stash_card_icons/90x90/IVZ_90x90@2x.png",
+    "R": 25,
+    "G": 57,
+    "B": 137
+  },
+  "BAC": {
+    "logo": "https://lh6.ggpht.com/x8OtRvnO93xdOxzbOHZ5DSSTuk92OgI0koX3nFzl5eAx1onCjZooiCUDvVRfXUeDUQ",
+    "R": 220,
+    "G": 20,
+    "B": 49
+  },
+  "JNJ": {
+    "logo": "https://www.brandchannel.com/wp-content/uploads/2017/09/jnj_logo-300x300.jpg",
+    "R": 216,
+    "G": 38,
+    "B": 36
+  },
+  "SLV": {
+    "logo": "https://storage.googleapis.com/iex/api/logos/SLV.png",
+    "R": 114,
+    "G": 202,
+    "B": 51
+  },
+  "PGR": {
+    "logo": "https://yt3.ggpht.com/ytc/AAUvwniJbYKGKDLiLq15ZAwFmQ-f4MlxQlxUP9wjhrbtTw=s900-c-k-c0x00ffffff-no-rj",
+    "R": 30,
+    "G": 115,
+    "B": 232
+  },
+  "BTC": {
+    "logo": "https://dynamic-assets.coinbase.com/e785e0181f1a23a30d9476038d9be91e9f6c63959b538eabbc51a1abc8898940383291eede695c3b8dfaa1829a9b57f5a2d0a16b0523580346c6b8fab67af14b/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+    "R": 247,
+    "G": 147,
+    "B": 26
+  },
+  "ETH": {
+    "logo": "https://dynamic-assets.coinbase.com/dbb4b4983bde81309ddab83eb598358eb44375b930b94687ebe38bc22e52c3b2125258ffb8477a5ef22e33d6bd72e32a506c391caa13af64c00e46613c3e5806/asset_icons/4113b082d21cc5fab17fc8f2d19fb996165bcce635e6900f7fc2d57c4ef33ae9.png",
+    "R": 98,
+    "G": 126,
+    "B": 234
+  },
+  "DOGE": {
+    "logo": "https://cryptologos.cc/logos/dogecoin-doge-logo.png",
+    "R": 186,
+    "G": 159,
+    "B": 51
+  },
+  "CRSR": {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKPYLXtpgEZR9313FvWezVk594NJ6-bmjfQ&usqp=CAU",
+    "R": 255,
+    "G": 255,
+    "B": 254
+  },
+  "FUBO": {
+    "logo": "https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/ylh8b9kxr1eoptlsi9bv",
+    "R": 250,
+    "G": 70,
+    "B": 22
+  },
+  "SPCE": {
+    "logo": "https://is4-ssl.mzstatic.com/image/thumb/Purple124/v4/ac/a9/c5/aca9c53f-2699-7c60-cff1-f9a014ec9999/source/256x256bb.jpg",
+    "R": 72,
+    "G": 189,
+    "B": 224
+  },
+  "Z": {
+    "logo": "https://media.glassdoor.com/sqll/40802/zillow-squarelogo-1554256839956.png",
+    "R": 0,
+    "G": 106,
+    "B": 254
+  },
+  "FSR": {
+    "logo": "https://play-lh.googleusercontent.com/spoQO3nfRUuMOPd9N4r8FhcH3Ogtlf_b8-qefv7FFD4qFNzeNydY0GUlOH_NRb7ryaHW",
+    "R": 144,
+    "G": 153,
+    "B": 158
+  },
+  "MP": {
+    "logo": "https://pbs.twimg.com/profile_images/1139080014664568833/QgnE32bS_400x400.jpg",
+    "R": 250,
+    "G": 139,
+    "B": 34
+  },
+  "ALGO": {
+    "logo": "https://dynamic-assets.coinbase.com/434cf9473be68c296f9c213b64a8caaebeb0f0fcf4096f38af3175eead7107425676652c9219c003f2acaafdcb07bce1f4862fe4f3f692ca1ae1da3c3dbff546/asset_icons/40447ba4170da28e92cf5c02d5675103d44d75fd6076ad8b0f5a953b3d4d3b9e.png",
+    "R": 255,
+    "G": 255,
+    "B": 254
+  },
+  "KNC": {
+    "logo": "https://dynamic-assets.coinbase.com/61c136736ba6116b74e4089349ef2b23f11d4fdccec0739cfe9bc7f371106c98c4dfee7b6ae76a10ec22e4d5c484b80c451d244058ac0aa963d79c853e81c1d3/asset_icons/8391ce2ea6a1b28a87b8a2df2f8650d2450177e1c02717676179bb869787e6a1.png",
+    "R": 49,
+    "G": 203,
+    "B": 158
+  },
+  "SCRT": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5604.png",
+    "R": 0,
+    "G": 0,
+    "B": 0
+  },
+  "NAS": {
+    "logo": "https://dynamic-assets.coinbase.com/51147c90cdcc006e0e4d0f51d2622865861a5e82ac21c2b5d76dd11def4703a62ae38c75e8c09151fbc8d4d634640b89720785d513f5a779a2b20a5aafdc0fb4/asset_icons/65b8bf3cf733cdf7aaa55d79675487411a77b9e7ab82b6c7f01a5528be3a969f.png",
+    "R": 34,
+    "G": 34,
+    "B": 34
+  },
+  "QSP": {
+    "logo": "https://dynamic-assets.coinbase.com/e1458dcc69ac07b65135826c310df899430008705b4f305821ea25445655be99505fb7617a5851b358daa7cbcc04e6435de84fcb8a2195c71f2f426013e1ca6b/asset_icons/36bd8c436bebc2cf90af5c5763e21a4b5e6c8865b4716141ac2bf8625a7bfc2b.png",
+    "R": 69,
+    "G": 69,
+    "B": 69
+  },
+  "FLM": {
+    "logo": "https://dynamic-assets.coinbase.com/2aed4ee32673acd0a9eb11e66f7601fe5fd2ef5d978a09b5e0a6139df0f2473449b2e50e86dbdf9201db98ee08c98ad93cdf908aea0603cb425cb4ab8d6ea202/asset_icons/9d772d65f66ccf34a56a33b05968b56a19402855f88318ddf80c30980dab55d7.png",
+    "R": 220,
+    "G": 65,
+    "B": 204
+  },
+  "LINK": {
+    "logo": "https://dynamic-assets.coinbase.com/9e34c547e363744ad9e5d140d098f498ee8959a2c175366765beb000c24695712697b3aa8d972e75e4d6c79a5c16e496a78fe30094638b1ad5fea45db71c82df/asset_icons/351b8b5f92576806a20692c98ae00c4d930117e44b26f217ab2bef5b29b3e312.png",
+    "R": 42,
+    "G": 90,
+    "B": 218
+  },
+  "CRO": {
+    "logo": "https://dynamic-assets.coinbase.com/b9cca547a64af22552489abd90e6aef1beda7a7891e4db2d2e622b3d892da1bd6d92b7bf8f96daefc9f49a239b9c257a9067d4c553e7e6845249e31ac683e52e/asset_icons/e54f79cc0e1915d2d49be224372e5bd33ac7c140bf8878e2d92d8beb7e5cb8b2.png",
+    "R": 16,
+    "G": 63,
+    "B": 104
+  },
+  "CCIV": {
+    "logo": "https://www.renaissancecapital.com/logos/CCCT.RC_logo_fb.jpg",
+    "R": 255,
+    "G": 255,
+    "B": 254
+  },
+  "QS": {
+    "logo": "https://media.glassdoor.com/sqll/1349613/quantumscape-squarelogo-1498035584881.png",
+    "R": 255,
+    "G": 255,
+    "B": 254
+  },
+  "PLTR": {
+    "logo": "https://styles.redditmedia.com/t5_34jra8/styles/communityIcon_wc7732186o061.png",
+    "R": 255,
+    "G": 255,
+    "B": 254
+  },
+  "ARKK": {
+    "logo": "https://cdn.discordapp.com/avatars/811803089853874226/f09d3ba474b1956ee3768d9ff5b6a564.png?size=128",
+    "R": 131,
+    "G": 100,
+    "B": 255
+  },
+  "ARKG": {
+    "logo": "https://cdn.discordapp.com/avatars/811803089853874226/f09d3ba474b1956ee3768d9ff5b6a564.png?size=128",
+    "R": 131,
+    "G": 100,
+    "B": 255
+  },
+  "ARKF": {
+    "logo": "https://cdn.discordapp.com/avatars/811803089853874226/f09d3ba474b1956ee3768d9ff5b6a564.png?size=128",
+    "R": 131,
+    "G": 100,
+    "B": 255
+  },
+  "ARKQ": {
+    "logo": "https://cdn.discordapp.com/avatars/811803089853874226/f09d3ba474b1956ee3768d9ff5b6a564.png?size=128",
+    "R": 131,
+    "G": 100,
+    "B": 255
+  },
+  "ARKX": {
+    "logo": "https://cdn.discordapp.com/avatars/811803089853874226/f09d3ba474b1956ee3768d9ff5b6a564.png?size=128",
+    "R": 131,
+    "G": 100,
+    "B": 255
+  },
+  "ARKW": {
+    "logo": "https://cdn.discordapp.com/avatars/811803089853874226/f09d3ba474b1956ee3768d9ff5b6a564.png?size=128",
+    "R": 131,
+    "G": 100,
+    "B": 255
+  },
+  "BLDR": {
+    "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQHr8MaQWkUTTg/company-logo_200_200/0/1551132942352?e=2159024400&v=beta&t=mFvCg6DZtrMs4raEljOYez2fvQ41rQXw-KKbg0jK8lI",
+    "R": 237,
+    "G": 23,
+    "B": 75
+  },
+  "RBLX": {
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Roblox_logo.png",
+    "R": 226,
+    "G": 35,
+    "B": 26
+  }
+}
