@@ -346,5 +346,17 @@
     "R": 255,
     "G": 255,
     "B": 254
+  },
+  "SSSS": {
+    "logo": "https://i.imgur.com/GfiIR1c.png",
+    "R": 172,
+    "G": 147,
+    "B": 93
+  },
+  "LUMN": {
+    "logo": "https://cdn1.channelpro.co.uk/sites/channelpro/files/2020/09/lumen_logo.jpg",
+    "R": 29,
+    "G": 155,
+    "B": 210
   }
 }
