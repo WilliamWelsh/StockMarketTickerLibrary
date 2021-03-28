@@ -370,5 +370,11 @@
     "R": 29,
     "G": 155,
     "B": 210
+  },
+  "ROOT": {
+    "logo": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/mlhhrrsgvnrduxpwq8u0",
+    "R": 255,
+    "G": 87,
+    "B": 21
   }
 }
