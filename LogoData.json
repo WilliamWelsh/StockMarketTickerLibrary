@@ -395,4 +395,10 @@
     "G": 89,
     "B": 95
   },
+  "COIN": {
+    "logo": "https://pbs.twimg.com/profile_images/1382176906355757059/NukbRo-E_400x400.png",
+    "R": 0,
+    "G": 82,
+    "B": 255
+  },
 }
