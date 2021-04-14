@@ -388,5 +388,11 @@
     "R": 34,
     "G": 34,
     "B": 34
-  }
+  },
+  "ABNB": {
+    "logo": "https://www.doz.com/cms/wp-content/uploads/2015/03/airbnb-logo.png",
+    "R": 254,
+    "G": 89,
+    "B": 95
+  },
 }
