@@ -424,5 +424,11 @@
     "R": 77,
     "G": 20,
     "B": 140
+  },
+  "DIS": {
+    "logo": "https://pbs.twimg.com/profile_images/1289584734494892032/Z1TjPU-z_400x400.jpg",
+    "R": 19,
+    "G": 0,
+    "B": 188
   }
 }
