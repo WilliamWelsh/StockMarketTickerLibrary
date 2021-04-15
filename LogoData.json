@@ -413,4 +413,10 @@
     "G": 0,
     "B": 174
   },
+  "DASH": {
+    "logo": "https://pbs.twimg.com/profile_images/953514920435318785/7_O-NkAM_400x400.jpg",
+    "R": 255,
+    "G": 48,
+    "B": 8
+  }
 }
