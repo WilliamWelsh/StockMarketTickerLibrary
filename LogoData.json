@@ -418,5 +418,11 @@
     "R": 255,
     "G": 48,
     "B": 8
+  },
+  "FDX": {
+    "logo": "https://elatemfg.com/wp-content/uploads/2020/10/fedex_logo.png",
+    "R": 77,
+    "G": 20,
+    "B": 140
   }
 }
