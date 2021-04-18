@@ -430,5 +430,11 @@
     "R": 140,
     "G": 128,
     "B": 255
+  },
+  "ADA": {
+    "logo": "https://dynamic-assets.coinbase.com/da39dfe3632bf7a9c26b5aff94fe72bc1a70850bc488e0c4d68ab3cf87ddac277cd1561427b94acb4b3e37479a1f73f1c37ed311c11a742d6edf512672aea7bb/asset_icons/a55046bc53c5de686bf82a2d9d280b006bd8d2aa1f3bbb4eba28f0c69c7597da.png",
+    "R": 0,
+    "G": 51,
+    "B": 173
   }
 }
