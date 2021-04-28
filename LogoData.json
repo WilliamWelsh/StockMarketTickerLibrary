@@ -436,5 +436,17 @@
     "R": 0,
     "G": 51,
     "B": 173
-  }
+  },
+  "MNMD": {
+    "logo": "https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/tjftedaa8gkeaiajztec",
+    "R": 255,
+    "G": 255,
+    "B": 254
+  },
+  "GSX": {
+    "logo": "https://pbs.twimg.com/profile_images/1257486769525624832/_rIXB9bf_400x400.jpg",
+    "R": 247,
+    "G": 105,
+    "B": 0
+  },
 }
