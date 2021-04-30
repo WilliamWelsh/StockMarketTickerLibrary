@@ -449,4 +449,10 @@
     "G": 105,
     "B": 0
   },
+  "SONY": {
+    "logo": "https://pbs.twimg.com/profile_images/1196440017524199424/Kwd1F92E_400x400.jpg,
+    "R": 255,
+    "G": 255,
+    "B": 254
+  },
 }
