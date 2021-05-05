@@ -455,4 +455,10 @@
     "G": 255,
     "B": 254
   },
+  "ETC": {
+    "logo": "https://dynamic-assets.coinbase.com/954e17be0facc99b81203f98c65bb7cdaca969f1bc8cd8b52e7feb91cbe55d7f9581066f5bbd715c2e80f3474cb166674ac0a55e30a3486c6a004d558ade8fb9/asset_icons/b57ac673f06a4b0338a596817eb0a50ce16e2059f327dc117744449a47915cb2.png",
+    "R": 23,
+    "G": 222,
+    "B": 141
+  },
 }
