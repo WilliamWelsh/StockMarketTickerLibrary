@@ -454,5 +454,11 @@
     "R": 255,
     "G": 1,
     "B": 0
+  },
+  "AAVE": {
+    "logo": "https://dynamic-assets.coinbase.com/6ad513d3c9108b163cf0a4c9fd3441cadcb9cf656ea7b9fb333eb7e4a94cd503528e0a94188285d31aedfc392f0793fd4161f7ad4e04d5f6b82e4d70a314d295/asset_icons/80f3d2256652f5ccd680fc48702d130dd01f1bd7c9737fac560a02949efac3b9.png",
+    "R": 182,
+    "G": 80,
+    "B": 158
   }
 }
