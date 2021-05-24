@@ -460,5 +460,17 @@
     "R": 182,
     "G": 80,
     "B": 158
+  },
+  "NANO": {
+    "logo": "https://dynamic-assets.coinbase.com/fb7cf7dadc2f555c2f9b60ab5c16154bdfbd2bf3c533253d310cd5e6b0da45beb7f1c736b2415bf682a545ceac41620785583129bd3e656a25551e981434e010/asset_icons/1597d628dd19b7885433a2ac2d7de6ad196c519aeab4bfe679706aacbf1df78a.png",
+    "R": 74,
+    "G": 144,
+    "B": 226
+  },
+  "MU": {
+    "logo": "hhttps://pbs.twimg.com/profile_images/1318247409986592768/j_eMZYxk_400x400.jpg",
+    "R": 79,
+    "G": 100,
+    "B": 205
   }
 }
