@@ -472,5 +472,11 @@
     "R": 79,
     "G": 100,
     "B": 205
-  }
+  },
+  "U": {
+    "logo": "https://pbs.twimg.com/profile_images/882558757531791360/CGKUrcD9_400x400.jpg",
+    "R": 255,
+    "G": 255,
+    "B": 255
+  },
 }
