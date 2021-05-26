@@ -490,5 +490,11 @@
     "R": 237,
     "G": 0,
     "B": 140
+  },
+  "SOL": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png",
+    "R": 113,
+    "G": 139,
+    "B": 210
   }
 }
