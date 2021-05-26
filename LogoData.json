@@ -484,5 +484,11 @@
     "R": 72,
     "G": 143,
     "B": 233
+  },
+  "VIPS": {
+    "logo": "https://pbs.twimg.com/profile_images/883291567498199045/SndljU4E_400x400.jpg",
+    "R": 237,
+    "G": 0,
+    "B": 140
   }
 }
