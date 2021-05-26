@@ -496,5 +496,11 @@
     "R": 113,
     "G": 139,
     "B": 210
+  },
+  "SNOW": {
+    "logo": "https://pbs.twimg.com/profile_images/1306279269400600576/SYkODlHL_400x400.png",
+    "R": 41,
+    "G": 181,
+    "B": 232
   }
 }
