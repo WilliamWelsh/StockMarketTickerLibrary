@@ -477,6 +477,12 @@
     "logo": "https://pbs.twimg.com/profile_images/882558757531791360/CGKUrcD9_400x400.jpg",
     "R": 255,
     "G": 255,
-    "B": 255
+    "B": 254
+  },
+  "SKLZ": {
+    "logo": "https://pbs.twimg.com/profile_images/1018993769872424960/0HOIx_zM_400x400.jpg",
+    "R": 72,
+    "G": 143,
+    "B": 233
   }
 }
