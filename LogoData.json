@@ -502,5 +502,11 @@
     "R": 41,
     "G": 181,
     "B": 232
+  },
+  "CLOV": {
+    "logo": "https://pbs.twimg.com/profile_images/616011573136470016/J9u9lrfw_400x400.jpg",
+    "R": 13,
+    "G": 130,
+    "B": 114
   }
 }
