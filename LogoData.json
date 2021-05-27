@@ -508,5 +508,11 @@
     "R": 13,
     "G": 130,
     "B": 114
+  },
+  "CPNG": {
+    "logo": "https://pbs.twimg.com/profile_images/533150578549850113/oClutAF-_400x400.png",
+    "R": 223,
+    "G": 47,
+    "B": 33
   }
 }
