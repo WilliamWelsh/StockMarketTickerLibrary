@@ -514,5 +514,11 @@
     "R": 223,
     "G": 47,
     "B": 33
+  },
+  "SNDL": {
+    "logo": "https://pbs.twimg.com/profile_images/1080594850683138049/J5U-SAmd_400x400.jpg",
+    "R": 171,
+    "G": 201,
+    "B": 203
   }
 }
