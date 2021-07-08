@@ -498,7 +498,7 @@
     "B": 210
   },
   "SNOW": {
-    "logo": "https://pbs.twimg.com/profile_images/1306279269400600576/SYkODlHL_400x400.png",
+    "logo": "https://pbs.twimg.com/profile_images/1410645236666167301/l2xlZP7J_400x400.png",
     "R": 41,
     "G": 181,
     "B": 232
@@ -538,5 +538,11 @@
     "R": 233,
     "G": 146,
     "B": 62
+  },
+  "UPST": {
+    "logo": "https://pbs.twimg.com/profile_images/1172615337638092800/TpH1O_x1_400x400.jpg",
+    "R": 2,
+    "G": 178,
+    "B": 172
   }
 }
