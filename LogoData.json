@@ -544,5 +544,23 @@
     "R": 2,
     "G": 178,
     "B": 172
+  },
+  "VXX": {
+    "logo": "https://pbs.twimg.com/profile_images/1278028973738426373/JXFFSeUC_400x400.png",
+    "R": 0,
+    "G": 172,
+    "B": 238
+  },
+  "VIX": {
+    "logo": "https://pbs.twimg.com/profile_images/1278028973738426373/JXFFSeUC_400x400.png",
+    "R": 0,
+    "G": 172,
+    "B": 238
+  },
+  "VX": {
+    "logo": "https://pbs.twimg.com/profile_images/1278028973738426373/JXFFSeUC_400x400.png",
+    "R": 0,
+    "G": 172,
+    "B": 238
   }
 }
