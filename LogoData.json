@@ -562,5 +562,11 @@
     "R": 0,
     "G": 172,
     "B": 238
+  },
+  "HOOD": {
+    "logo": "https://brokerchooser.com/uploads/broker_logos/robinhood-review.png",
+    "R": 33,
+    "G": 206,
+    "B": 153
   }
 }
