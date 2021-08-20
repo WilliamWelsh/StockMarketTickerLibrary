@@ -133,9 +133,9 @@
   },
   "NIO": {
     "logo": "https://i.pinimg.com/originals/ee/81/0e/ee810e9422320a522024007642f8f110.png",
-    "R": 23,
-    "G": 23,
-    "B": 20
+    "R": 255,
+    "G": 255,
+    "B": 254
   },
   "CCL": {
     "logo": "https://www.streetinsider.com/images/secattach/20200403/16705935_g897344g45f53.jpg",
@@ -373,9 +373,9 @@
   },
   "XRP": {
     "logo": "https://dynamic-assets.coinbase.com/e81509d2307f706f3a6f8999968874b50b628634abf5154fc91a7e5f7685d496a33acb4cde02265ed6f54b0a08fa54912208516e956bc5f0ffd1c9c2634099ae/asset_icons/3af4b33bde3012fd29dd1366b0ad737660f24acc91750ee30a034a0679256d0b.png",
-    "R": 34,
-    "G": 34,
-    "B": 34
+    "R": 255,
+    "G": 255,
+    "B": 254
   },
   "ABNB": {
     "logo": "https://www.doz.com/cms/wp-content/uploads/2015/03/airbnb-logo.png",
@@ -409,9 +409,9 @@
   },
   "FDX": {
     "logo": "https://elatemfg.com/wp-content/uploads/2020/10/fedex_logo.png",
-    "R": 77,
-    "G": 20,
-    "B": 140
+    "R": 177,
+    "G": 121,
+    "B": 236
   },
   "DIS": {
     "logo": "https://pbs.twimg.com/profile_images/1289584734494892032/Z1TjPU-z_400x400.jpg",
@@ -421,9 +421,9 @@
   },
   "ADA": {
     "logo": "https://dynamic-assets.coinbase.com/da39dfe3632bf7a9c26b5aff94fe72bc1a70850bc488e0c4d68ab3cf87ddac277cd1561427b94acb4b3e37479a1f73f1c37ed311c11a742d6edf512672aea7bb/asset_icons/a55046bc53c5de686bf82a2d9d280b006bd8d2aa1f3bbb4eba28f0c69c7597da.png",
-    "R": 0,
-    "G": 51,
-    "B": 173
+    "R": 102,
+    "G": 148,
+    "B": 255
   },
   "MNMD": {
     "logo": "https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/tjftedaa8gkeaiajztec",
@@ -568,5 +568,29 @@
     "R": 33,
     "G": 206,
     "B": 153
+  },
+  "SQ": {
+    "logo": "https://storage.googleapis.com/iex/api/logos/SQ.png",
+    "R": 255,
+    "G": 255,
+    "B": 254
+  },
+  "TDOC": {
+    "logo": "https://img.utdstc.com/icon/0a8/181/0a8181ecff1708ca710dfdcff488e27820beb61dea320822e756fa48d9f367b5:200",
+    "R": 91,
+    "G": 8,
+    "B": 139
+  },
+  "LTC": {
+    "logo": "https://dynamic-assets.coinbase.com/f018870b721574ef7f269b9fd91b36042dc05ebed4ae9dcdc340a1bae5b359e8760a8c224bc99466db704d10a3e23cf1f4cd1ff6f647340c4c9c899a9e6595cd/asset_icons/984a4fe2ba5b2c325c06e4c2f3ba3f1c1fef1f157edb3b8ebbfe234340a157a5.png",
+    "R": 165,
+    "G": 168,
+    "B": 169
+  },
+  "DOT": {
+    "logo": "https://dynamic-assets.coinbase.com/e69bfafd90cc11d33bec57383c354ec1d99f29fdb1a8c3822bf438a58ca6dd032d19e9f5b89fd3dbfb3af45af96610da2f253ad225cd83fcabc3db8e5e52f20d/asset_icons/cb500931800355a865fb919a692a03c346df838e594c408b033f0b91a99cf1ba.png",
+    "R": 230,
+    "G": 0,
+    "B": 122
   }
 }
