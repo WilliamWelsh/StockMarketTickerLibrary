@@ -592,5 +592,11 @@
     "R": 230,
     "G": 0,
     "B": 122
-  }
+  },
+  "MATIC": {
+    "logo": "https://img.utdstc.com/icon/0a8/181/0a8181ecff1708ca710dfdcff488e27820beb61dea320822e756fa48d9f367b5:200",
+    "R": 130,
+    "G": 71,
+    "B": 229
+  },
 }
