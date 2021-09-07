@@ -599,4 +599,10 @@
     "G": 71,
     "B": 229
   },
+  "QNT": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png",
+    "R": 255,
+    "G": 255,
+    "B": 254
+  }
 }
