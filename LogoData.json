@@ -468,10 +468,10 @@
     "B": 226
   },
   "MU": {
-    "logo": "https://pbs.twimg.com/profile_images/1399829815889252353/HNpzC8OX_400x400.jpg",
-    "R": 79,
-    "G": 100,
-    "B": 205
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFQBX-WwLc4bwEUWHNTCqryrp-J9C9JQPRzsObE_jOCuQunLnMYPX_nAS5QDGgaU_W8EI&usqp=CAU",
+    "R": 0,
+    "G": 126,
+    "B": 200
   },
   "U": {
     "logo": "https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png",
@@ -610,5 +610,17 @@
     "R": 0,
     "G": 106,
     "B": 210
+  },
+  "PLUG": {
+    "logo": "https://s3-symbol-logo.tradingview.com/plug-power--600.png",
+    "R": 0,
+    "G": 187,
+    "B": 220
+  },
+  "PDD": {
+    "logo": "https://www.ecommercestrategychina.com/storage/uploads/images/2018%20252.jpg",
+    "R": 211,
+    "G": 31,
+    "B": 42
   }
 }
