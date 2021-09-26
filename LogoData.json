@@ -640,5 +640,23 @@
     "R": 255,
     "G": 78,
     "B": 92
-  }
+  },
+  "TOTAL": {
+    "logo": "https://pbs.twimg.com/profile_images/1418656582888525833/p4fZd3KR_400x400.jpg",
+    "R": 19,
+    "G": 23,
+    "B": 34
+  },
+  "CELR": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png",
+    "R": 255,
+    "G": 255,
+    "B": 254
+  },
+  "IOTX": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2777.png",
+    "R": 6,
+    "G": 215,
+    "B": 194
+  },
 }
