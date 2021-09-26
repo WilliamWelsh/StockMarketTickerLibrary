@@ -634,5 +634,11 @@
     "R": 0,
     "G": 169,
     "B": 206
+  },
+  "BBIG": {
+    "logo": "https://static.gurufocus.com/logos/0C0000BFMZ.png",
+    "R": 255,
+    "G": 78,
+    "B": 92
   }
 }
