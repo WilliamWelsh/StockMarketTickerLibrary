@@ -659,4 +659,16 @@
     "G": 215,
     "B": 194
   },
+  "XLM": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png",
+    "R": 255,
+    "G": 255,
+    "B": 254
+  },
+  "FTM": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png",
+    "R": 25,
+    "G": 105,
+    "B": 255
+  }
 }
