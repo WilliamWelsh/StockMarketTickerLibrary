@@ -670,5 +670,17 @@
     "R": 25,
     "G": 105,
     "B": 255
+  },
+  "MVRS": {
+    "logo": "https://pbs.twimg.com/profile_images/1453818753880190978/HqrrEcrI_400x400.png",
+    "R": 2,
+    "G": 129,
+    "B": 250
+  },
+  "PFE": {
+    "logo": "https://pbs.twimg.com/profile_images/1346412800319627265/dQiT_-XU.jpg",
+    "R": 1,
+    "G": 149,
+    "B": 255
   }
 }
