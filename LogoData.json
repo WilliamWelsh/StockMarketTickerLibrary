@@ -682,5 +682,11 @@
     "R": 1,
     "G": 149,
     "B": 255
+  },
+  "AVAX": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png",
+    "R": 232,
+    "G": 65,
+    "B": 66
   }
 }
