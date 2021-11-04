@@ -688,5 +688,11 @@
     "R": 232,
     "G": 65,
     "B": 66
+  },
+   "RVN": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2577.png",
+    "R": 56,
+    "G": 65,
+    "B": 130
   }
 }
