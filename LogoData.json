@@ -689,10 +689,28 @@
     "G": 65,
     "B": 66
   },
-   "RVN": {
+  "RVN": {
     "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2577.png",
     "R": 56,
     "G": 65,
     "B": 130
+  },
+  "ELON": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9436.png",
+    "R": 253,
+    "G": 200,
+    "B": 133
+  },
+  "KSM": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5034.png",
+    "R": 255,
+    "G": 255,
+    "B": 254
+  },
+  "ILV": {
+    "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8719.png",
+    "R": 91,
+    "G": 39,
+    "B": 114
   }
 }
