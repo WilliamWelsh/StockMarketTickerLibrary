@@ -712,5 +712,17 @@
     "R": 91,
     "G": 39,
     "B": 114
+  },
+  "RIVN": {
+    "logo": "https://pbs.twimg.com/profile_images/1199724774613606402/ZTAmKeoe_400x400.jpg",
+    "R": 254,
+    "G": 177,
+    "B": 23
+  },
+  "OPEN": {
+    "logo": "https://pbs.twimg.com/profile_images/821881599625043968/oqhbiHUU_400x400.jpg",
+    "R": 27,
+    "G": 134,
+    "B": 232
   }
 }
