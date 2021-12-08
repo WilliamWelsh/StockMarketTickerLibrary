@@ -724,5 +724,11 @@
     "R": 27,
     "G": 134,
     "B": 232
+  },
+  "FB": {
+    "logo": "https://static.dezeen.com/uploads/2021/11/meta-facebook-rebranding-name-news_dezeen_2364_col_sq.jpg",
+    "R": 0,
+    "G": 128,
+    "B": 249
   }
 }
